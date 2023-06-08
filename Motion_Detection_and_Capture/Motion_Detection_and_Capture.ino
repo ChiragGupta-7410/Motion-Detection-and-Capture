@@ -1,8 +1,8 @@
 // Enter your WiFi ssid and password
-const char* ssid     = "Redmi K50i";   //WIFI SSID
-const char* password = "kd9ens2haz8za2z";   //WIFI password
-String token = "6153206549:AAGOSYOlxaeksdQPOmFixAjFmfQidMbeQ74";
-String chat_id = "5833761495";
+const char* ssid     = "********************";   //WIFI SSID
+const char* password = "****************";   //WIFI password
+String token = "**************************"; //Telegram Bot ID Token
+String chat_id = "****************************"; //Telegram Chat ID
 
 #include <WiFi.h>
 #include <WiFiClientSecure.h>
